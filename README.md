@@ -1,2 +1,2 @@
-# note.github.io
+# note
 개인적인 개발관련 정리 블로그

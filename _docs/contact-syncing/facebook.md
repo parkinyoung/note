@@ -15,3 +15,6 @@ To sync your contacts:
 3. Authorise ChatApp
 
 ![](//placehold.it/800x600)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjc4OTY3ODQxXX0=
+-->
